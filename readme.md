@@ -25,3 +25,7 @@ Functional blocks of code written in TypeScript.
 - find greatest value in array
 [![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ62knlQFMAXAV1QDsBnSDZADwEsMKsA3ZAGwpLjBw4AMYB7OmUgAzFtQAmAcVLIyJWmQBqvfpAC8kABQ5kuAFyQAgqjwAeahwBGJVAD4AlPteQA3lEg85JAiVKTUZAASLADmABbqWjok+tg2pgDaAAwAugDcwpAyYqhGAUEsKZm5kBW2qXgAdIHU0WSx1RUA1AYAjO5+hYUs0oYhNiThUXEJ2nzJdSa46SzZngODhWNhkTHxGrO6BovLef6FAL75F-n+pJQ0waETO9P7SfnnwoFSiynpAKwAGkgAGZgQB2YEADmBPUysKBkB6MMgACYACywno9WGw1GwgCc0PBp3Ekkg8hIGDEKVkCmUJFUMySxjSuHcNzJtDEgSaYmihkp1I5QA)
 [![Source](https://shields.io/badge/-Source-informational)](./lib/find-greatest-value-in-array.ts)
+
+- find sum of two values
+[![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2kB2BXDARgKaoDy2RckSamO+xqAKgO4D2V8qRALrqtgDOkQfjjBwAYzZCekAGYBLbABMAyvkgBeSAAo8hEuSIAuSADkGJADT1Dzdmcv2AlNoB8Fq6n3fjbgGove197VjYXAG5wKRlBNgAbIgA6BLYAc10lVQ0MXQAmAAZbABZClyiYoA)
+[![Source](https://shields.io/badge/-Source-informational)](./lib/find-sum-of-two-values.ts)
