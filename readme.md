@@ -13,3 +13,7 @@ Blocks of code that do one thing or another, written in TypeScript.
 - find match between two arrays
 [![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ4HkA7AUzkiTU21TwBUB3AezPlWIBcBXVQgZ0gzJ2AYwAWkAJYAzSFMadCAEzjBw4YYz7tZEpQFkhYgEId6xYoQaMAgjWS5+AXkgAKHPaLEAXNkK4ANNR0TD7IfgCUkI4AfJAA3lCQADYcAoaiAGLySlGyyEm8xADciYlyqC4AbmiSkoRBHiSRcZCtia3SbnYEJAB0uorEAB74Ul3BjADaEgC6kbEAtACM4Qmt62kimdmKueyonMXt68etGnyMKb1JjADmLgAGglvY7D4AJHHuuFbTMwC+D3CJQ2-xBkDBpVabC4PE2YiyCkUJUh4GAwB0+nSJnYZgsVlseF4LkmS38ACZ-ABmGaBSZU-wAVn8ABYKXMSlIBgYtji8ZYmIT7MTSRTAgyWbTIPSmayxYyOeAgA)
 [![Source](https://shields.io/badge/-Source-informational)](./lib/find-match-between-two-arrays.ts)
+
+- sequential search
+[![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2kDOBTNAxgBazSRJqaRroCepCquALgK6oB22kARgPZ8ANvg6Q+ojMmbE4wcOALjszHLgCOrXB2YBLZIIDK+VMUgBeSAAo8hIgC5IAOVYYeuVJAA+kA81Q6OAHMAGmpUOgcAQXDkWgAeDhc3D29lfyCAPgBKcwzIAG8oSAAzPg9LYRUdc0gABgBuSGq4sLoAOmEg5iJG6oBqCwBGHMLIMabiyxpYgG0dAF1zMwsbEyIRovHIRS4hXA6+QMsAAwBZKVNS1g4AEwcAEnzV4gBfY6z6zfGmNk5IP00ny2LyBkBBRWAwB0zFwWA4fBUV1upEgP3YomK+jwn3BCiUKhusL4RlsNQATAAWT47ZSQQkYPjROg1GZk0IAVlCAGZQgB2UIADlCg1qws5kEGQsglOFg0GwrZEoAnILefNPuA8BotLp9CS1pZ6cTjMRQkambEPuAgA)
+[![Source](https://shields.io/badge/-Source-informational)](./lib/sequential-search.ts)
