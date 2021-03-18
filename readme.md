@@ -2,8 +2,8 @@
 
 Functional blocks of code written in TypeScript. 
 
-- hashmap
-[![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k2ttS8qApgC4CuqAdgM6QmplGQD2lkAZgJarUmQAmZRABtOAY2Qkm7ZmUr88IYOHBjWvSAAtk1TRmSJIAXkgAKHAC5slAJ4BKYwD5IAbyh5Iamn2YAjAFZWLgDanPJEAB5WvKhhAOYAulbItgC+xq6pKpAczKimwqSQnBkADADcxZAAPNioqAB0hZRxJJqVJQDUJgCMDm45OcDAxexV+iRimkS0nFJYYSwBRGJ8OdmDnGOmfv7BOKEJCf3ug57qzIVNzHGmAAYTU5DCzBJS-FYAJC4HnAmpdzsp0GxHIVDoDCI5WBqWhwOGkGoRQA1kQbHRmBDGMDdvt6ocEhl6IxoTlYe5QRQ2OxkMIkdDyeBtLp9IhTMEegAaABMnIAzJyACycgCsnIAbELjtDmXoDOzeQLhUrpeAgA)
+- if array has duplicates
+[![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k2ttS8qApgC4CuqAdgM6QmplGQD2lkAZgJarUmQAmZRABtOAY2Qkm7ZmUr88IYOHBjWvSAAtk1TRmSJIAXkgAKHAC5slAJ4BKYwD5IAbyh5Iamn2YAjAFZWLgDanPJEAB5WvKhhAOYAulbItgC+xq6pKpAczKimwqSQnBkADADcxZAAPNioqAB0hZRxJJqVJQDUJgCMDm45OcDAxexV+iRimkS0nFJYYSwBRGJ8OdmDnGOmfv7BOKEJCf3ug57qzIVNzHGmAAYTU5DCzBJS-FYAJC4HnAmpdzsp0GxHIVDoDCI5WBqWhwOGkGoRQA1kQbHRmBDGMDdvt6ocEhl6IxoTlYe5QRQ2OxkMIkdDyeBtLp9IhTMEACwAGgArFyAGxcjnHSoI4lEJk6PQGdkAZiFXPlwrsopG4slLJlwSVXIAnFyAEwiyAIml0iVAA)
 [![Source](https://shields.io/badge/-Source-informational)](./lib/hashmap.ts)
 
 - execute function _only_ once
