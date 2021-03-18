@@ -9,3 +9,7 @@ Blocks of code that do one thing or another, written in TypeScript.
 - execute function _only_ once
 [![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUh7A7ANgT0gUwB5oMYFcAuakAZrvNvgJYJzlpQjDjjYIDO+t2RAvJABSlyVBPwCUkAN5RIiNJ0w4CaACaQ+xAIaI2aANwyATvNyH4JMhWrxxUmZAeRKxAQEJFeQionTHfxx7Kanz4hrj69v4OrPBssHIAdIiwAOb8AEQAEmiIyQA0kADqsIaIKq7pYpEOAL4yNQY1YuIG4AjcLZBtdJ3AwJDwsPgAFpTwKZDDmgAO02ix4EA)
 [![Source](https://shields.io/badge/-Source-informational)](./lib/execute-only-once.ts)
+
+- find match between two arrays
+[![Try me](https://shields.io/badge/-Try_me-success)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ4HkA7AUzkiTU21TwBUB3AezPlWIBcBXVQgZ0gzJ2AYwAWkAJYAzSFMadCAEzjBw4YYz7tZEpQFkhYgEId6xYoQaMAgjWS5+AXkgAKHPaLEAXNkK4ANNR0TD7IfgCUkI4AfJAA3lCQADYcAoaiAGLySlGyyEm8xADciYlyqC4AbmiSkoRBHiSRcZCtia3SbnYEJAB0uorEAB74Ul3BjADaEgC6kbEAtACM4Qmt62kimdmKueyonMXt68etGnyMKb1JjADmLgAGglvY7D4AJHHuuFbTMwC+D3CJQ2-xBkDBpVabC4PE2YiyCkUJUh4GAwB0+nSJnYZgsVlseF4LkmS38ACZ-ABmGaBSZU-wAVn8ABYKXMSlIBgYtji8ZYmIT7MTSRTAgyWbTIPSmayxYyOeAgA)
+[![Source](https://shields.io/badge/-Source-informational)](./lib/find-match-between-two-arrays.ts)
