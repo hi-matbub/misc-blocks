@@ -1,13 +1,13 @@
 const { findMatchBetweenTwoArrays } = require('../lib');
 
-describe('calculate', function() {
-  it('add', function() {
-    // let result = Calculator.Sum(5, 2);
-    // expect(result).toBe(7);   
-  });
+describe('find-match-between-two-arrays', () => {
+  it('should match on "5"', () => (
+    expect(findMatchBetweenTwoArrays([1,2,5], [5,3,6]))
+      .toStrictEqual({status: true, msg: 5})
+  ));
 
-  it('substract', function() {
-    // let result = Calculator.Difference(5, 2);
-    // expect(result).toBe(3);
-  });
+  it('should return a falsy value if no match', () => (
+    expect(findMatchBetweenTwoArrays([0,0,0], [1,1,1]))
+      .toStrictEqual({status: false})
+  ));
 });

@@ -7,8 +7,8 @@
 module.exports = (a: Array<number>, b: Array<number>) => {
   for(var i in a) {   
     if(a.indexOf(b[i]) > -1) {
-      return true;
+      return { status: true, msg: b[i] };
     };
   };
-  return false;
+  return { status: false };
 };
