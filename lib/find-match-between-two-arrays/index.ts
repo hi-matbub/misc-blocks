@@ -1,7 +1,7 @@
 /**
- * @param a array
- * @param b array
- * @returns true on match
+ * @param a Array
+ * @param b Array
+ * @returns Object
  */
 
 module.exports = (a: Array<number>, b: Array<number>) => {
