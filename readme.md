@@ -38,6 +38,7 @@ Find match between two Arrays. Accepts 2 Arrays and returns an Object with first
 ```js
 findMatchBetweenTwoArrays([1,2,5], [5,3,6]); // { status: true, msg: 5 }
 ```
+<br/>
 
 ### misc-blocks/if-array-has-duplicate-values
 
@@ -49,6 +50,7 @@ If Array has duplicate values. Accepts an Array and returns an Object with first
 ```js
 hasDuplicateValues([3,4,3,4]); // { "status": true, "msg": 3 }
 ```
+<br/>
 
 ### misc-blocks/execute-once
 
@@ -63,6 +65,7 @@ const once = executeOnce();
 once(() => "Hello, World!"); // "Hello, World!"
 once(() => "Hello, World!"); // undefined 
 ```
+<br/>
 
 ### misc-blocks/sequential-search
 
@@ -74,6 +77,7 @@ Sequential search. Find's dynamic match within Array and returns an Object respo
 ```js
 sequentialSearch("Hello", ["Seven", 24, "Hello"]); //  { "status": true, "msg": "Hello", "i": 2 }
 ```
+<br/>
 
 - find minimum value in array
 [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?ssl=23&ssc=1&pln=1&pc=1#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ62knlQFMAXAV1QDsBnSDAS2sYwqwDdkAbCkuYOHABjAPZ0ykAGbMAJgFlmrdgDUefSAF5IAChzJcALkgBBVHgA81dgCMSqAHwBKLQ8gBvKJG7lIwqqTUZIosbBhqvCRa2OYGANoADAC6ANxCkNKiqLrevozRCSmQ+RYxeAB0PtQA5mQAFkX5ANTaAIxOnhkZjFI6-uYkQSHK4epRbvq4cYxJLp1dGf2BwUphERrak9OpXhkAvmn7aV6klDR+AYMroapjaXtCPpKT0XEArAA0kADMXwDsXwAHF9WgkQZ9IK1gZAAEwAFhBrVaIJBMJBAE4gX8dmIJJBZCQMKJojJqApVrdInpYrgnMdcbRRD5KqJqjoCUS6eAgA)
