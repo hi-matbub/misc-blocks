@@ -1,6 +1,6 @@
 {
   "name": "misc-blocks",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Functional blocks of code written in TypeScript.",
   "main": "./dist/index.js",
   "types": "./dist/index.js",
@@ -8,7 +8,8 @@
     ".": "./dist/index.js",
     "./find-match-between-two-arrays": "./dist/find-match-between-two-arrays/index.js",
     "./if-array-has-duplicate-values": "./dist/if-array-has-duplicate-values/index.js",
-    "./execute-once": "./dist/execute-once/index.js"
+    "./execute-once": "./dist/execute-once/index.js",
+    "./sequential-search": "./dist/sequential-search/index.js"
   },
   "directories": {
     "lib": "lib"
