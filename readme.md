@@ -5,17 +5,28 @@
 
 <p align="right"><img src="./public/blocks-154x154.png" /></p>
 
-Functional blocks of code written in TypeScript. 
+Blocks of code written in TypeScript, compied into pure functional JavaScript 💙
 
 ## Getting Started
 
-Install the `misc-blocks` package.
+Install the `misc-blocks` package. 
 
 ```js
 npm install misc-blocks
 ```
 
 This is a utility driven project. Refer to the list below to view more information about specific methods available. 
+
+Most common ways to import modules
+```js
+// preferred 
+const findMatchBetweenTwoArrays = require('misc-blocks/find-match-between-two-arrays');
+
+// less preferred
+const { findMatchBetweenTwoArrays } = require('misc-blocks');
+```
+
+## Submodules
 
 ### misc-blocks/find-match-between-two-arrays
 
