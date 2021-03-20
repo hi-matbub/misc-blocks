@@ -2,6 +2,13 @@
 
 If you would like to get involed right away feel free to get in touch with me! 
 
+## Local Setup
+
+```sh
+git clone https://github.com/hi-matbub/misc-blocks.git
+cd misc-blocks && npm i
+```
+
 ## New Feature Checklist
 
 Before a new feature can be published a new feature we need to verify a few things.
