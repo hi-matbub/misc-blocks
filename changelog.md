@@ -5,3 +5,6 @@
 
 ### 0.0.4
 - [if-array-has-duplicate-values](./lib/if-array-has-duplicate-values)
+
+### 0.0.6
+- [execute-once](./lib/execute-once)
