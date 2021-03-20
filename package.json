@@ -9,7 +9,8 @@
     "./find-match-between-two-arrays": "./dist/find-match-between-two-arrays/index.js",
     "./if-array-has-duplicate-values": "./dist/if-array-has-duplicate-values/index.js",
     "./execute-once": "./dist/execute-once/index.js",
-    "./sequential-search": "./dist/sequential-search/index.js"
+    "./sequential-search": "./dist/sequential-search/index.js",
+    "./qty-of-matches": "./dist/qty-of-matches/index.js"
   },
   "directories": {
     "lib": "lib"
