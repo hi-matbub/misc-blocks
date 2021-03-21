@@ -17,18 +17,16 @@ cd misc-blocks && npm i
 ## New Feature Checklist
 
 ### TLDR
-- [ ] Add Feature `./lib/my-new-feature/index.ts`
-- [ ] Export from main entry point in `./lib/index.ts`
-- [ ] Create test suite `./test/my-new-feature.test.ts`
-- [ ] Add a demo version of the code to TS Playground
-- [ ] Update the "exports" object within the `./package.json`
-- [ ] Create a readme for the new feature `./lib/my-new-feature/readme.md`
+- [ ] [Add Feature](#add-feature-libmy-new-featureindexts) `./lib/my-new-feature/index.ts`
+- [ ] [Export from main entry point in](#export-from-entry-point-libindexts) `./lib/index.ts`
+- [ ] [Create test suite]() `./test/my-new-feature.test.ts`
+- [ ] [Add a demo version of the code to TS Playground](#add-a-demo-version-of-the-code-to-ts-playground)
+- [ ] [Update the "exports" object within the](#update-the-exports-object-within-the-packagejson) `./package.json`
+- [ ] [Create a readme for the new feature](#add-a-readme-for-the-submodule) `./lib/my-new-feature/readme.md`
 
 ### Add feature `./lib/my-new-feature/index.ts`
 
-Add the code in a new subdirectory with a descriptive but breif title. See examples of naming conventions in the [./lib](./lib) directory.
-
-- [ ] source should be exported e.g `./lib/my-new-feature/index.ts`
+Add the code in a new subdirectory with a descriptive but breif title. See examples of naming conventions in the [./lib](./lib) directory. Source should be exported e.g `./lib/my-new-feature/index.ts`
 ```js
 /**
  * @param
@@ -68,7 +66,7 @@ describe('my-awesome-function', () => {
 [![See me](https://shields.io/badge/-See_Me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAHAhgJ0QW0oyBBZqCeUMCK6kARjnoodHMgKYAuArsgHYDOkA8uQFYMAxkyLBw4IQHsuTSADMAluwAmAWURMhACwBCzAO4MG7ACoGpuAtwC8kABSIAXFQIAedizTkGyAHwANBQuVjQeXj7+AJSQNn6QAN5QClLI9gBuKJCK2eyYMQmQRclFivKOAHTKKgwAHjzl5ADaigC6MfEAtACMBSVFkIysHImQnEyaLJwuTMgsDEFonADmLs1tkAC+ANz9O8n7RUNseYXjk9MKiAA2nAxbu-uSMuOQNWhS3bEK1RpaeoZjGYLKF8Jx7E1ugEAEwBADMrSCTThAQArAEACww9q7aSyN4MD7Q75KVR-HT6JhGEzmSzUMEQqHQxGQZFogIAThxEjxnCk1wYFWuUmW9iSRXenwCyUl0PAmyiu3AwGAkG0TCY8GmKuWiiY2hY5Aq0jQwG0ik6aE05ENwDQik4Qk65GFQgA1pxgLNjHbEMpgNdFORgKSVJbNDpnYCTJ0qVJOihrJBlarALwbgGkd5NAA)
 
 ### Update the "exports" object within the `./package.json`
-- [ ] We will need to be able to import as a sub directory. This allows </br> `const myNewFeature = require('misc-blocks/my-new-feature')`
+We will need to be able to import as a sub directory. This allows </br> `const myNewFeature = require('misc-blocks/my-new-feature')`
 
 ```json
 "exports": {
