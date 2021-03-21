@@ -68,6 +68,8 @@ describe('my-awesome-function', () => {
 ### Update the "exports" object within the `./package.json`
 We will need to be able to import as a sub directory. This allows </br> `const myNewFeature = require('misc-blocks/my-new-feature')`
 
+
+_for those unfamiliar and coming from JavaScript: We point to the `./dist/**/index.js` as all TypeScript must be compiled to standard JavaScript._
 ```json
 "exports": {
   ".": "./dist/index.js",
@@ -77,14 +79,14 @@ We will need to be able to import as a sub directory. This allows </br> `const m
 
 ### Add a readme for the submodule 
 
-[Start with a copy of the submodule readme template](./static/examples/submodule-readme.md). Click the view raw button in the upper right-hand corner.
+[Start with a copy of the submodule readme template](./static/examples/submodule-readme.md). Click the "raw" button in the upper right-hand corner.
 
 ### Update the primary readme
 
 [Grab a copy of the primary readme template](./static/examples/submodule-readme.md). Click the "raw" button in the upper right-hand corner.
 
 <details>
-  <summary>Where is the view raw button?</summary>
+  <summary>Where is the "raw" button?</summary>
   <a href="https://github.com/hi-matbub/markdown-guide" target="_blank">
     <img src="https://github.com/hi-matbub/markdown-guide/raw/master/how-to-use.gif?raw=true" alt="gif demo"/>
   </a>
