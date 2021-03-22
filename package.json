@@ -1,6 +1,6 @@
 {
   "name": "misc-blocks",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Functional blocks of code written in TypeScript.",
   "main": "./dist/index.js",
   "types": "./dist/index.js",
@@ -11,7 +11,8 @@
     "./execute-once": "./dist/execute-once/index.js",
     "./sequential-search": "./dist/sequential-search/index.js",
     "./qty-of-matches": "./dist/qty-of-matches/index.js",
-    "./find-minimum-value": "./dist/find-minimum-value/index.js"
+    "./find-minimum-value": "./dist/find-minimum-value/index.js",
+    "./find-maximum-value": "./dist/find-maximum-value/index.js"
   },
   "directories": {
     "lib": "lib"

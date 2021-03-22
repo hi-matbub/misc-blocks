@@ -97,19 +97,28 @@ qtyOfMatches(3, [1,2,3,4,4,3,3]); // { "status": true, "qty": 3 }
 [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-minimum-value)
 [![Try me in the TS Playground](https://shields.io/badge/-Try_me_in_the_TS_Playground-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k2sgQVXQE9ZpJ5UBTAFwFdUA7AZ0gDlaMAjS1OYccAGMA9s2qQAZgEsGAEwCyMqRg4A1ZABtalSAF5IAChwAufIWREAPAw7dUAPgCUe+5ADeUSBpqQAHnuxCAG0ABgBdAG5PCWFcAy8fKUgZQNRnKQkDf1ccIKkw5399XPyoyEgqOkY-KIBfKKFRJnFZSgxhAEYA6TlFBmU1TW0DIIBWABoOgCZJgE5xgA4AdgKokTFIVvap7pkFJRUMdS1KEYAWcYBmcanrqdWBdaZhbwA6DWEAcwMPcq3O8aef5TcC1RxRIA)
 
-Accepts an Array of Numbers, returns the least greatest Number.
+Accepts an Array of Numbers, returns the least greatest number.
 
 ```js
 findMinimumValue([4,3,23,2]); // 4
 ```
 <br/>
 
+### misc-blocks/find-maximum-value
+
+[![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-maximum-value)
+[![Try me in the TS Playground](https://shields.io/badge/-Try_me_in_the_TS_Playground-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k2sgQVXQE9ZpJ5UBTAFwFdUA7AZ0gDlaMAjS1OYccAGMA9s2qQAZgEsGAEwCyyAB5SMHAGrIANrUqQAvJAAUOAFz5CyIgB4GHbqgB8ASgOPIAbyiQtNSEoNsQgBtAAYAXQBubwlhXCMfPylIGSDUVykJIwD3HGCpcNcAwzyC6MhIKjpGf2iAX2ihUSZxWUoMYQBGQOk5RRU1DE0dSiNggFYAGk6AJmmATkmADgB2QsjIYGBIVaaxSDaOmZ6ZBWVVDW1dMYAWSYBmSZnHmfXN7eeBEWZhXwA6LTCADmRi8FUOXUm3ghM3AdWc0SAA)
+
+Accepts an Array of Numbers, returns the greatest number.
+
+```js
+findMaximumValue([4,3,23,2]); // 23
+```
+<br/>
 
 ## Coming soon 🕐
 
 
-- find greatest value in array
-[![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ62knlQFMAXAV1QDsBnSDZADwEsMKsA3ZAGwpLjBw4AMYB7OmUgAzFtQAmAcVLIyJWmQBqvfpAC8kABQ5kuAFyQAgqjwAeahwBGJVAD4AlPteQA3lEg85JAiVKTUZAASLADmABbqWjok+tg2pgDaAAwAugDcwpAyYqhGAUEsKZm5kBW2qXgAdIHU0WSx1RUA1AYAjO5+hYUs0oYhNiThUXEJ2nzJdSa46SzZngODhWNhkTHxGrO6BovLef6FAL75F-n+pJQ0waETO9P7SfnnwoFSiynpAKwAGkgAGZgQB2YEADmBPUysKBkB6MMgACYACywno9WGw1GwgCc0PBp3Ekkg8hIGDEKVkCmUJFUMySxjSuHcNzJtDEgSaYmihkp1I5QA)
 
 - find sum of two values
 [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2kB2BXDARgKaoDy2RckSamO+xqAKgO4D2V8qRALrqtgDOkQfjjBwAYzZCekAGYBLbABMAyvkgBeSAAo8hEuSIAuSADkGJADT1Dzdmcv2AlNoB8Fq6n3fjbgGove197VjYXAG5wKRlBNgAbIgA6BLYAc10lVQ0MXQAmAAZbABZClyiYoA)

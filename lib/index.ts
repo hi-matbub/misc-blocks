@@ -5,4 +5,5 @@ module.exports = {
   sequentialSearch: require('./sequential-search/'),
   qtyOfMatches: require('./qty-of-matches/'),
   findMinimumValue: require('./find-minimum-value/'),
+  findMaximumValue: require('./find-maximum-value'),
 };
